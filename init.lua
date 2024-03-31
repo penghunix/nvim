@@ -9,11 +9,5 @@ require 'penguin.telescope'
 require 'penguin.which-key'
 require 'penguin.nvim-tree'
 require 'penguin.lspconfig'
-
--- require 'kyeongsoo.lsp'
--- require 'kyeongsoo.luasnip'
--- require 'kyeongsoo.cmp'
--- require 'kyeongsoo.cmd'
-
-
--- require 'penguin.nvim-tree'
+require 'penguin.luasnip'
+require 'penguin.cmp'
